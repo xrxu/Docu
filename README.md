@@ -3,4 +3,4 @@
 |课程时间|读书笔记|
 |:---- |:---- |
 |第一节  |[文档](./entry/entry.md)|
-|第二节  |[文档]|(./helloworld/helloworld.md)|
+|第二节  |[文档](./helloworld/helloworld.md)|
