@@ -4,3 +4,4 @@
 |:---- |:---- |
 |第一节  |[文档](./entry/entry.md)|
 |第二节  |[文档](./helloworld/helloworld.md)|
+|第三课  |[文档](./langchain/langchain.md)|
