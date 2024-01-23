@@ -7,3 +7,4 @@
 |第三课  |[文档](./langchain/langchain.md)|
 |第四课  |[文档](./xtuner/xtuner.md)|
 |第五课  |[文档](./lmdeploy/lmdeploy.md)|
+|第六课  |[文档](./opencompass/opencompass.md)|
